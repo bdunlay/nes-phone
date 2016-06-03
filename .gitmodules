@@ -1,0 +1,6 @@
+[submodule "eagle-cad/lib/SIM800C"]
+	path = eagle-cad/lib/SIM800C
+	url = https://github.com/bdunlay/SIM800C
+[submodule "eagle-cad/lib/SparkFun-Eagle-Libraries"]
+	path = eagle-cad/lib/SparkFun-Eagle-Libraries
+	url = https://github.com/bdunlay/SparkFun-Eagle-Libraries
